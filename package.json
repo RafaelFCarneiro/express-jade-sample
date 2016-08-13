@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express-sample",
+  "version": "1.0.0",
+  "description": "Simple express website sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "nodemailer": "^2.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelFCarneiro/express-jade-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RafaelFCarneiro/express-jade-sample/issues"
+  },
+  "homepage": "https://github.com/RafaelFCarneiro/express-jade-sample#readme"
+}
